@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .num_animation{
+      width: 100px;
+      border: 1px solid;
+      padding: 20px;
+      margin: 0 auto;
+      font-size: 3em;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="num_animation" data-rete="50"></div>
+  <script>
+    var numAnimation = document.querySelector('.num_animation');
+    var data_rate = numAnimation.getAttribute('data-rete');
+    var num = 0;
+
+    var move = setInterval(function(){
+      ++num;
+      numAnimation.innerHTML = num;
+      if(num==data_rate){
+        clearInterval(move);
+      }
+    });
+  </script>
+</body>
+</html>

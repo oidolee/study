@@ -91,7 +91,9 @@ ex)
 * 1번 입니다.
   * 2번 입니다.
     * 3번 입니다.
- 
+ *띄어쓰기 주의
+ ![image](https://user-images.githubusercontent.com/85022962/126020840-db9409d2-e73f-4ee8-95fb-22ad5951acf4.png)
+
     
     
 

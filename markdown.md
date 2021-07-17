@@ -61,4 +61,4 @@ ex)
 > If you can imagine it, you can achieve it; if you can dream it, you can become it.
 당신이 상상을 할 수 있다면 그것을 이룰 수 있고, 당신이 꿈꿀 수 있다면 그 꿈대로 될 수 있다
 
->> wow >>
+>> wow >> 두개 씀

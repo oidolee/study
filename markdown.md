@@ -14,6 +14,8 @@
   
   ex)
   
+  ![Uploading image.png…]()
+
   
   code 전역  
   

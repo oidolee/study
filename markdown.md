@@ -36,3 +36,14 @@
   
 _이탤릭_
 *이탤릭*
+
+## 4.볼드체 사용
+
+ex)
+
+
+![image](https://user-images.githubusercontent.com/85022962/126020255-c3a23e58-8fe2-4e87-a361-f06116f483fa.png)
+
+
+__볼드체__
+**볼드체**

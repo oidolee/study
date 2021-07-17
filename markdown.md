@@ -14,7 +14,8 @@
   
   ex)
   
-  ![Uploading image.png…]()
+  ![image](https://user-images.githubusercontent.com/85022962/126020164-43d34637-ba30-4c1e-a4cd-7ca229788a0a.png)
+
 
   
   code 전역  

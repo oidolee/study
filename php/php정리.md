@@ -1,4 +1,4 @@
-# php란? [^gak]
+# php란? [^g]
 
 ```
  1.주로 HTML 코드를 프로그래밍적으로 생성
@@ -16,6 +16,6 @@
 ```
 
 
-[^gak] : gagagaga
+[^g]: gagagaga
 출처:생활코딩 
 https://opentutorials.org/course/62/233

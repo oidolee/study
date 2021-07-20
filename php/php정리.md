@@ -16,6 +16,6 @@
 ```
 
 
-[^gak]:gagagaga
+\[^gak] : gagagaga
 출처:생활코딩 
 https://opentutorials.org/course/62/233

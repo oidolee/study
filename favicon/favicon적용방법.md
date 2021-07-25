@@ -16,6 +16,8 @@
 
 
 1번으로 다운 후 2번내용을 head사이에 넣고 
+![image](https://user-images.githubusercontent.com/85022962/126892383-a184286a-84bf-4a5a-b92f-4a147a2c5ad5.png)
+
 
 1번 압축푼 사진들을 넣고 싶은 위치 넣기 -> 2번 head안에 내용을 경로 지정하여 넣기
 ![image](https://user-images.githubusercontent.com/85022962/126892324-7333833e-cba8-4b55-abdd-a7c2e9983369.png)

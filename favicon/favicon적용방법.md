@@ -8,12 +8,15 @@
 >위에처럼 ico파일을 만든 후
 >아래와 같이 넣어주면 된다.
 
+![image](https://user-images.githubusercontent.com/85022962/126892209-047e7bed-bf00-4894-9d91-deaa06f1671a.png)
 
 
 
 ## 2. 각 브라우저마다 크기 맞춰 넣는 방법
 
-![image](https://user-images.githubusercontent.com/85022962/126892209-047e7bed-bf00-4894-9d91-deaa06f1671a.png)
 
+1번으로 다운 후 2번내용을 head사이에 넣고 
 
+1번 압축푼 사진들을 넣고 싶은 위치 넣기 -> 2번 head안에 내용을 경로 지정하여 넣기
+![image](https://user-images.githubusercontent.com/85022962/126892324-7333833e-cba8-4b55-abdd-a7c2e9983369.png)
 

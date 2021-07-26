@@ -18,5 +18,7 @@
   
   ```
   
+  https://blog.naver.com/PostView.nhn?blogId=innoc99&logNo=140055334056
+  
   
 [출처] JavaScript에서 close()함수를 사용하자! 총정리!|작성자 일리

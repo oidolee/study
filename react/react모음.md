@@ -15,3 +15,10 @@ App.js -> index.js -> index.html로 넣어준다
 
 ## 1번 {} 중괄호 사용 하면 거의 다 넣는거 가능 
 ![image](https://user-images.githubusercontent.com/85022962/128787995-828a44f7-8f0e-425e-a2a1-b311e079c569.png)
+
+## 2번 destructuring
+
+const [a,b] = useState(1)2 > 함수는 1번 내용과 2번 함수를 갖고온다  즉 a=1, b=2
+
+![image](https://user-images.githubusercontent.com/85022962/128788371-13c6547d-9a78-4062-900a-ce9861073b25.png)
+

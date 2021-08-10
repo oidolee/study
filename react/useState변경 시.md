@@ -28,6 +28,11 @@
 
 ![image](https://user-images.githubusercontent.com/85022962/128817448-fcd65521-6015-439a-9b3a-19c455186b21.png)
 
+## component 해당 위치에 넣어둠
+
+![image](https://user-images.githubusercontent.com/85022962/128818097-8af626d7-ed74-4c68-81ad-70304b96573c.png)
+
+
 
 
 

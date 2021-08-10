@@ -12,3 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/85022962/128810947-3e6ddcdc-dfa6-40f7-b457-dd7032656081.png)
 
+## deep copy로 배열 복사 참조값만 갖고옴 (값공유x)
+
+![image](https://user-images.githubusercontent.com/85022962/128811527-820c8998-4a4c-4712-ad7c-5b9c77f8661d.png)
+
+

@@ -53,8 +53,7 @@
 
 ## Component 장점
 
-![image](https://user-images.githubusercontent.com/85022962/128819932-6077a4ba-6eca-4148-b45c-b514e97c316b.png)
-
+![image](https://user-images.githubusercontent.com/85022962/128820285-ce9b2359-d327-48b8-a8e1-11b8cd14ad6f.png)
 
 
 

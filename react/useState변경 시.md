@@ -46,6 +46,13 @@
 ![image](https://user-images.githubusercontent.com/85022962/128818650-c0b04691-4bc9-4b4e-ad45-1014a5bb3588.png)
 
 
+## Component
+![image](https://user-images.githubusercontent.com/85022962/128818825-ee2abf2a-4feb-465b-b9b2-eab76f531109.png)
+
+![image](https://user-images.githubusercontent.com/85022962/128818769-9891726b-d1c9-47ab-bc6e-f54d1e17a1cf.png)
+
+
+
 
 
 

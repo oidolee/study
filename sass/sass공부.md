@@ -23,6 +23,8 @@
 ![image](https://user-images.githubusercontent.com/85022962/128795714-2224dc1b-b541-4f0c-b0c0-59e37b24e0ef.png)
 
 ## 3.css파일을 원하는 위치에 갖다 놓기
+![image](https://user-images.githubusercontent.com/85022962/128795823-9f04fbf2-91cf-41e2-a839-b0bc8f1ce7d3.png)
+
 
 
 

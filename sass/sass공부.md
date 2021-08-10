@@ -7,3 +7,6 @@
 
 ![image](https://user-images.githubusercontent.com/85022962/128795478-db63e44f-c776-47c7-9e80-365e9cc1bf12.png)
 
+## 처음에는 map 파일이 같이 떠준다 (이것이 귀찮으면 후에 설정 변경)
+
+![image](https://user-images.githubusercontent.com/85022962/128795579-d9e72bfc-f75f-4cfb-b7c0-31be0aa9d6af.png)

@@ -31,6 +31,9 @@
 ## component 해당 위치에 넣어둠
 
 ![image](https://user-images.githubusercontent.com/85022962/128818097-8af626d7-ed74-4c68-81ad-70304b96573c.png)
+### 축약도 가능
+![image](https://user-images.githubusercontent.com/85022962/128818289-9544b257-04e9-49a7-9d3e-a8a9449d5c98.png)
+
 
 
 

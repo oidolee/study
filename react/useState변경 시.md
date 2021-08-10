@@ -34,6 +34,10 @@
 ### 축약도 가능
 ![image](https://user-images.githubusercontent.com/85022962/128818289-9544b257-04e9-49a7-9d3e-a8a9449d5c98.png)
 
+## 이름은 대문자!! / 소괄호 안에 div 여러개 x / 
+![image](https://user-images.githubusercontent.com/85022962/128818360-62d28702-c776-4988-b9b5-c8cbdbd4df65.png)
+
+
 
 
 

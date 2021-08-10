@@ -15,4 +15,9 @@
 
 ![image](https://user-images.githubusercontent.com/85022962/128795635-ed9d433d-8789-476a-aaf0-cf9241405a39.png)
 
+## 설정 창 들어가기
+
+![image](https://user-images.githubusercontent.com/85022962/128795681-fee98ff0-47ea-4e07-b077-d106a1066c38.png)
+
+
 

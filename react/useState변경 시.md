@@ -24,4 +24,10 @@
 ![image](https://user-images.githubusercontent.com/85022962/128815229-5c29a30d-583a-4257-ae43-2d6f9b7e6fb2.png)
 ![image](https://user-images.githubusercontent.com/85022962/128815372-c76d3b02-6b88-4aa3-bab7-30fd0e2349f5.png)
 
+## 연속 <div></div> 불가능
+
+![image](https://user-images.githubusercontent.com/85022962/128817448-fcd65521-6015-439a-9b3a-19c455186b21.png)
+
+
+
 

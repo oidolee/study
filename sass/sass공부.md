@@ -19,5 +19,9 @@
 
 ![image](https://user-images.githubusercontent.com/85022962/128795681-fee98ff0-47ea-4e07-b077-d106a1066c38.png)
 
+## 이후 map파일 제거하고 다시하기
+![image](https://user-images.githubusercontent.com/85022962/128795714-2224dc1b-b541-4f0c-b0c0-59e37b24e0ef.png)
+
+
 
 

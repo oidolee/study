@@ -38,6 +38,16 @@
 ![image](https://user-images.githubusercontent.com/85022962/128818360-62d28702-c776-4988-b9b5-c8cbdbd4df65.png)
 
 
+## 이렇게 여러 div쓰고 싶을 때 
+![image](https://user-images.githubusercontent.com/85022962/128818572-675c4a04-e9e2-430b-a447-f378b2415ca7.png)
+
+## 아래와 같이 쓰면 된다.
+
+![image](https://user-images.githubusercontent.com/85022962/128818650-c0b04691-4bc9-4b4e-ad45-1014a5bb3588.png)
+
+
+
+
 
 
 

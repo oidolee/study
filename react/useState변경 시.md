@@ -55,6 +55,11 @@
 
 ![image](https://user-images.githubusercontent.com/85022962/128820285-ce9b2359-d327-48b8-a8e1-11b8cd14ad6f.png)
 
+## Component 단점
+>지역변수의 개념이기에 state 쓰기 힘듬
+![image](https://user-images.githubusercontent.com/85022962/128820412-ab8387d5-8781-42f2-820d-f65913b7ab7b.png)
+
+
 
 
 

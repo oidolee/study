@@ -1,3 +1,8 @@
+# 깃허브 연결
+## 원격 주소 연결시 아래와 같이 작성
+![image](https://user-images.githubusercontent.com/85022962/128976087-c72f3182-c30e-4ad0-ab91-42faf730a861.png)
+
+
 # git과 github차이
 
 -git은 버전관리 시스템 / 소스코드 수정에 따른 버전관리  (로컬에서)

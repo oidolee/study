@@ -1,3 +1,4 @@
+# npm start 후 ctrl+c 누르면 종료도 가능
 # react 구성요소
 
 App.js -> index.js -> index.html로 넣어준다

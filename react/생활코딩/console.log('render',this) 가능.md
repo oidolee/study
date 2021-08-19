@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/85022962/130154414-42ba398b-960b-48cc-ad54-c2f9f4162961.png)
 
 # this가 연결 안되어 있을 때는 사용 xx
-![image](https://user-images.githubusercontent.com/85022962/130154935-cb31486f-7719-4176-8e41-43b61f2e43ca.png)
+![image](https://user-images.githubusercontent.com/85022962/130155022-33fdb263-e26b-4123-aa80-09426464266f.png)
 
 # 연결하고 싶다면 .bind()를 사용해라
 

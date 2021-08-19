@@ -8,5 +8,10 @@
 
 ![image](https://user-images.githubusercontent.com/85022962/130155346-6f96f201-3c4a-4d78-953e-125fdb9fd74d.png)
 
+# 컴포넌트에 this는 자기자신을 카리킴
+
+![image](https://user-images.githubusercontent.com/85022962/130155833-b4c384ec-7b16-49d3-9fd3-c170ee132a40.png)
+
+
 
 

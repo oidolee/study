@@ -4,6 +4,9 @@
 # this가 연결 안되어 있을 때는 사용 xx
 ![image](https://user-images.githubusercontent.com/85022962/130155022-33fdb263-e26b-4123-aa80-09426464266f.png)
 
-# 연결하고 싶다면 .bind()를 사용해라
+# 연결하고 싶다면 .bind(넣고싶은 객체 또는 기타...)를 사용해라
+
+![image](https://user-images.githubusercontent.com/85022962/130155346-6f96f201-3c4a-4d78-953e-125fdb9fd74d.png)
+
 
 

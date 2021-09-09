@@ -5,4 +5,8 @@
 
 ![image](https://user-images.githubusercontent.com/85022962/132601314-3c49abb8-fa8d-4cff-8817-5939176c1715.png)
 
+# 받아 온 후 상태표시
+![image](https://user-images.githubusercontent.com/85022962/132601490-52e00c0b-78dd-4d85-82c4-6612b35c2acc.png)
+
+
 

@@ -13,6 +13,8 @@
 # 연결확인하기 !!
 ![image](https://user-images.githubusercontent.com/85022962/132602861-9e25c818-9bf3-45dd-8923-ab24511a5a66.png)
 
+![image](https://user-images.githubusercontent.com/85022962/132602947-4a498d35-9be8-4c4c-8cd8-24688fe96b46.png)
+
 
 
 

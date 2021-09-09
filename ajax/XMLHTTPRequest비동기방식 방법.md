@@ -8,5 +8,9 @@
 # 받아 온 후 상태표시
 ![image](https://user-images.githubusercontent.com/85022962/132601490-52e00c0b-78dd-4d85-82c4-6612b35c2acc.png)
 
+![image](https://user-images.githubusercontent.com/85022962/132602003-b814edf7-5de3-48cc-823b-536de61dfdee.png)
+
+
+
 
 

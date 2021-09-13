@@ -18,6 +18,10 @@ data-0 = 스크롤양 0일때 /  data-500 = 스크롤양 500일 때
 
 ![image](https://user-images.githubusercontent.com/85022962/133021204-2b522090-6b0e-4ed3-904a-546fa3f459cc.png)
 
+data-center-top 해당요소 top이 브라우저 center에 왔을 때
+
+![image](https://user-images.githubusercontent.com/85022962/133021513-c5213392-0908-417b-a423-1156944e0a1a.png)
+
 
 
 

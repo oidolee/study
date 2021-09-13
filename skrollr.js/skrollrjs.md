@@ -22,6 +22,8 @@ data-center-top 해당요소 top이 브라우저 center에 왔을 때
 
 ![image](https://user-images.githubusercontent.com/85022962/133021513-c5213392-0908-417b-a423-1156944e0a1a.png)
 
+top-top이랑 같다
+![image](https://user-images.githubusercontent.com/85022962/133021895-28d3d8ab-c02e-4acd-8670-3b2e13973a58.png)
 
 
 

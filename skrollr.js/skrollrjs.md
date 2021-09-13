@@ -9,6 +9,24 @@ script type="text/javascript" src="skrollr.min.js"></script>
 
 https://github.com/Prinzhorn/skrollr
 
-
-
 ![image](https://user-images.githubusercontent.com/85022962/133020128-9ce42aa0-125f-472b-b9a1-702ac99af754.png)
+
+data-0 = 스크롤양 0일때 /  data-500 = 스크롤양 500일 때
+![image](https://user-images.githubusercontent.com/85022962/133020317-3b38c1b9-2802-4427-9384-5c337313684d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

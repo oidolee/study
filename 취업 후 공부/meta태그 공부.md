@@ -9,3 +9,8 @@
 
 만약 name 속성이나 http-equiv 속성이 명시되었다면 반드시 content 속성도 함께 명시되어야 하며, 반대로 두 속성이 명시되지 않았다면 content 속성 또한 명시될 수 없습니다.
 http://tcpschool.com/html-tags/meta
+
+# 속성 참고
+
+![image](https://user-images.githubusercontent.com/85022962/137617140-98d09406-2953-43e8-b64c-87dde9346f40.png)
+

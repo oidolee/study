@@ -1,6 +1,4 @@
 
-
-
 <!--천식-->
 <div class="asthma_wrap">
     <ul class="tabs">
@@ -75,4 +73,4 @@ html구역
 .container ul.tabs li:hover::after{position:absolute; bottom:-20px; left:0; width:100%; height:5px; background: #ec652d; content:''; display: block;}
 .container ul.tabs li:hover::before{content:''; position:absolute; bottom:-15px; left:50%; transform:translateX(-50%);   width:0px; height:0px; border-bottom:9px solid  #ec652d;  border-right: 7px solid transparent;  border-left: 7px solid transparent; display: block;}
 
-css구역
+css구역2

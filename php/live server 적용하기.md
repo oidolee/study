@@ -2,7 +2,8 @@
 
 https://teserre.tistory.com/12
 
-2번째는
+2번째는 아래 유튜브 참고
+https://www.youtube.com/watch?v=2RsapQV9OLg 
 htdocs안에 workspace 만든 후 setting.json 파일 만든 후 vs코드에 live server setting.json을 맞춰준다
 아래처럼 경로 맞춰주기
 

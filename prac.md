@@ -32,3 +32,44 @@
 </body>
       
 </html>
+
+-------------------------------이벤트 형식
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  
+</head>
+<body>
+    <div id="app">
+        {{mesaage}}
+        <wide-com v-on:show-log="printText"></wide-com>
+    </div>
+    <script>
+        Vue.component('wide-com',{
+            template : '<button v-on:click="showLog">show log</button>',
+            methods : {
+                showLog : function(){
+                    this.$emit('show-log');
+                }
+            }
+        });
+        new Vue({
+            el:'#app',
+            data : {
+               mesaage : 'hello!! haha' ,
+            },
+            methods : {
+                printText : function(){
+                    console.log("received an event")
+                }
+            }
+        });
+    </script>
+
+</html>

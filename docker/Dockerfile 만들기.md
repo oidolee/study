@@ -19,3 +19,6 @@ RUN npm ci
 COPY index.js .
 
 ENTRYPOINT [ "node" , "index.js" ]
+
+-d => 백그라운드로 계속 돌게
+docker run -d -p 8080:8080 fun-docker

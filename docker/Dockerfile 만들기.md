@@ -21,4 +21,9 @@ COPY index.js .
 ENTRYPOINT [ "node" , "index.js" ]
 
 -d => 백그라운드로 계속 돌게
-docker run -d -p 8080:8080 fun-docker
+
+컨테이너 예제1)docker run -d -p 8080:8080 fun-docker
+-> fun-docker 라는 이미지 돌리기
+
+컨테이너 예제2)docker run -d -p 8080:8080 oidolee/docker-example
+-> oidolee/docker-example 라는 이미지 돌리기

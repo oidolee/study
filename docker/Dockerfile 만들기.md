@@ -13,7 +13,9 @@ COPY package.json package-lock.json./
 # ci시 package-lock.json 파일 버전 갖고옴 안정성 맞춰줌
 RUN npm ci 
 
-# 자주 변경되는 것 마지막 -> 도커는 레이어 시스템으로 변경 안되는 건 캐시 -> 변경되는 것만 업데이트 작업
+![image](https://user-images.githubusercontent.com/85022962/224868656-4e4bdb1b-492a-47a8-8421-5f52d15de6e9.png)
+
+# 자주 변경되는 것 마지막 -> 도커는 레이어 시스템으로 변경 안되는 건 캐시 -> 변경되는 것만 업데이트 작업 (위사진 참고)
 COPY index.js .
 
 ENTRYPOINT [ "node" , "index.js" ]
